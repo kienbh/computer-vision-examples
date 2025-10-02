@@ -13,14 +13,34 @@ Students will gradually learn how to:
 
 ## 📂 Repository Structure
 ```
-computer-vision-lab-examples/
+computer-vision-examples/
 │
-├── week01_digital_imaging/
-│ └── digital_imaging_fundamentals.ipynb
-├── week02_histogram/
-│ └── histogram_equalization.ipynb
-...
+├── part1_DIP_weeks01-08/
+│   ├── week01_digital_imaging_fundamentals/
+│   │   └── digital_imaging_fundamentals.ipynb
+│   ├── week02_point_processing/
+│   │   └── image_enhancement_point_processing.ipynb
+│   ├── week03_histogram_processing/
+│   │   └── histogram_processing.ipynb
+│   ├── week04_spatial_filtering/
+│   │   └── spatial_filtering.ipynb
+│   ├── week05_frequency_domain/
+│   │   └── frequency_domain_processing.ipynb
+│   ├── week06_pca_lossless_compression/
+│   │   └── pca_and_lossless_compression.ipynb
+│   ├── week07_restoration_morphology/
+│   │   └── restoration_and_morphological_processing.ipynb
+│   └── week08_segmentation_jpeg/
+│       └── segmentation_and_jpeg.ipynb
+│
+├── part2_DL_CV_weeks09-10/
+│   ├── week09_cnn_yolo/
+│   │   └── cnn_yolo_object_detection.ipynb
+│   └── week10_multimodal_cv/
+│       └── multimodal_llm_cv_applications.ipynb
+│
 └── README.md
+
 ```
 
 ## ⚙️ Installation
