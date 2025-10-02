@@ -48,23 +48,23 @@ pip install -r requirements.txt
 ```
 Introduction on Digital Image Processing and Computer Vision
 
-Phần 1: Digital Image Processing - DIP (Weeks 1–8)
-Digital Imaging Fundamentals
-Image Enhancement (Point Processing)
-Histogram Processing
-Spatial Filtering
-Frequency Domain Processing
-PCA & Image Compression (Lossless)
-Image Restoration & Morphological Processing
-Image Segmentation & JPEG Standard
-
-Phần 2: Deep Learning for CV (Weeks 9–10)
-CNNs & YOLOs for Object Detection
-Multi-modal LLMs & Applications in CV
-
-Phần 3: Final Project (Weeks 11–12)
-Data Collection, Labeling & Model Training
-Deployment & Presentation (API deployment / App demo)
+  Phần 1: Digital Image Processing - DIP (Weeks 1–8)
+    - Digital Imaging Fundamentals
+    - Image Enhancement (Point Processing)
+    - Histogram Processing
+    - Spatial Filtering
+    - Frequency Domain Processing
+    - PCA & Image Compression (Lossless)
+    - Image Restoration & Morphological Processing
+    - Image Segmentation & JPEG Standard
+  
+  Phần 2: Deep Learning for CV (Weeks 9–10)
+    - CNNs & YOLOs for Object Detection
+    - Multi-modal LLMs & Applications in CV
+  
+  Phần 3: Final Project (Weeks 11–12)
+    - Data Collection, Labeling & Model Training
+    - Deployment & Presentation (API deployment / App demo)
 ```
 
 ## 📝 Assignments & Evaluation
