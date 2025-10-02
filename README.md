@@ -1,4 +1,4 @@
-# 🖼️ Computer Vision Lab Examples: CSE3062-BCSE2022
+# 🖼️ Computer Vision Examples: CSE3062-BCSE2022
 
 This repository contains practical examples and lab exercises for the **Computer Vision** course (12 weeks, 4h/week).  
 The goal is to help students build solid foundations in **Digital Image Processing (DIP)** and gain hands-on experience with  
