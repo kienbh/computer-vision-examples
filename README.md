@@ -38,7 +38,7 @@ computer-vision-examples/
 │   │   └── cnn_yolo_object_detection.ipynb
 │   └── week10_multimodal_cv/
 │       └── multimodal_llm_cv_applications.ipynb
-│
+├──...
 └── README.md
 
 ```
