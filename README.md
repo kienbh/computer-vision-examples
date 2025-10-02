@@ -95,7 +95,7 @@ Introduction on Digital Image Processing and Computer Vision
 - **Final Presentation (10%)**: activities, presentations, teamwork.
   
 ## 👨‍🏫 Instructor
-** Dr. Bùi Huy Kiên**  
+**Dr. Bùi Huy Kiên**
 Lecturer, Vietnam Japan University (VJU)  
 Course:CSE3062 Computer Vision – Bachelor of Computer Science & Engineering (BCSE2022)  
 
