@@ -1,8 +1,8 @@
 # 🖼️ Computer Vision Lab Examples: CSE3062-BCSE2022
 
-
 This repository contains practical examples and lab exercises for the **Computer Vision** course (12 weeks, 4h/week).  
-The goal is to help students build solid foundations in **Digital Image Processing (DIP)** and gain hands-on experience with **Deep Learning for Computer Vision**.  
+The goal is to help students build solid foundations in **Digital Image Processing (DIP)** and gain hands-on experience with  
+**Deep Learning for Computer Vision**.  
 
 Students will gradually learn how to:
 1. Understand the principles of **digital imaging** (sampling, quantization, resolution).
@@ -74,7 +74,7 @@ Introduction on Digital Image Processing and Computer Vision
 - **Final Presentation (10%)**: activities, presentations, teamwork.
   
 ## 👨‍🏫 Instructor
-**Bùi Huy Kiên**  
+** Dr. Bùi Huy Kiên**  
 Lecturer, Vietnam Japan University (VJU)  
 Course:CSE3062 Computer Vision – Bachelor of Computer Science & Engineering (BCSE2022)  
 
