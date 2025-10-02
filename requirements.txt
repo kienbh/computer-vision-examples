@@ -1,0 +1,30 @@
+# Core scientific packages
+numpy
+matplotlib
+scipy
+
+# Computer Vision
+opencv-python
+scikit-image
+
+# Machine Learning & Deep Learning
+# scikit-learn
+# torch
+# torchvision
+# torchaudio
+
+# Jupyter Notebook
+# jupyter
+# ipykernel
+
+# Utilities
+# tqdm
+# seaborn
+
+# For API demo in final project
+# flask
+# fastapi
+# uvicorn
+
+# (Optional) For YOLO
+# ultralytics
