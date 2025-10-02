@@ -34,8 +34,9 @@ computer-vision-examples/
 │       └── segmentation_and_jpeg.ipynb
 │
 ├── part2_DL_CV_weeks09-10/
-│   ├── week09_cnn_yolo/
+│   ├── week09_cnns_yolos/
 │   │   └── cnn_yolo_object_detection.ipynb
+│   │   └── yolo_object_detection.ipynb
 │   └── week10_multimodal_cv/
 │       └── multimodal_llm_cv_applications.ipynb
 ├──...
