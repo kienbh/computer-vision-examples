@@ -30,17 +30,35 @@ computer-vision-lab-examples/
 ```bash
 git clone https://github.com/kienbh/computer-vision-examples.git
 cd computer-vision-examples
-
+```
 
 ### 2. Create a virtual environment (recommended)
-
+```bash
 python -m venv venv
 source venv/bin/activate       # On Linux/Mac
 venv\Scripts\activate          # On Windows
+```
 
 ### 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
+## 📚 Course Topics Covered
+- Digital Imaging Fundamentals: sampling, quantization, resolution  
+- Image Enhancement: point processing, histogram, filtering  
+- Image Restoration & Morphology  
+- Segmentation and Compression (Lossless/JPEG)  
+- CNNs & YOLO for Object Detection  
+- Multi-modal CV Applications (Vision-Language Models)  
+- Final Project: Data → Training → Deployment (API/App)  
+
+## 📝 Assignments & Evaluation
+- **Midterm Assignment (30%)**: Implement DIP algorithms (OpenCV).  
+- **Final Project (50%)**: Build a CV solution (data collection, training, API/App demo).  
+- **Class Participation (10%)**: Attendance
+- **Final Presentation (10%)**: activities, presentations, teamwork.
+  
 ## 👨‍🏫 Instructor
 **Bùi Huy Kiên**  
 Lecturer, Vietnam Japan University (VJU)  
