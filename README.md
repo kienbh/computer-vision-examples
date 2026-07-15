@@ -33,13 +33,17 @@ computer-vision-examples/
 │   ├── week04_spatial_filtering/
 │   │   └── Image Enhancement Spatial Filtering.ipynb
 │   ├── week05_frequency_domain/
-│   │   └── Frequency Domain Processing.ipynb
+│   │   ├── Frequency Domain Processing.ipynb
+│   │   └── input/                  # images used by the examples & exercises
 │   ├── week06_pca_lossless_compression/
-│   │   └── PCA and Lossless Compression.ipynb
+│   │   ├── PCA and Lossless Compression.ipynb
+│   │   └── input/
 │   ├── week07_restoration_morphology/
-│   │   └── Restoration and Morphological Processing.ipynb
+│   │   ├── Restoration and Morphological Processing.ipynb
+│   │   └── input/
 │   └── week08_segmentation_jpeg/
-│       └── Segmentation and JPEG.ipynb
+│       ├── Segmentation and JPEG.ipynb
+│       └── input/
 │
 ├── part2_DL_CV_weeks09-10/
 │   ├── week09_cnn_yolo/                    # (coming soon)
