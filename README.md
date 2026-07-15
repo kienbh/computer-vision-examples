@@ -32,18 +32,29 @@ computer-vision-examples/
 │   │   └── input/                  # sample images
 │   ├── week04_spatial_filtering/
 │   │   └── Image Enhancement Spatial Filtering.ipynb
-│   ├── week05_frequency_domain/            # (coming soon)
-│   ├── week06_pca_lossless_compression/    # (coming soon)
-│   ├── week07_restoration_morphology/      # (coming soon)
-│   └── week08_segmentation_jpeg/           # (coming soon)
+│   ├── week05_frequency_domain/
+│   │   └── Frequency Domain Processing.ipynb
+│   ├── week06_pca_lossless_compression/
+│   │   └── PCA and Lossless Compression.ipynb
+│   ├── week07_restoration_morphology/
+│   │   └── Restoration and Morphological Processing.ipynb
+│   └── week08_segmentation_jpeg/
+│       └── Segmentation and JPEG.ipynb
 │
 ├── part2_DL_CV_weeks09-10/
 │   ├── week09_cnn_yolo/                    # (coming soon)
 │   └── week10_multimodal_cv/               # (coming soon)
 │
+├── Gonzalez_images/          # sample images from Gonzalez & Woods, DIP 3rd ed. (CH01–CH12)
 ├── requirements.txt
 └── README.md
 ```
+
+## 🖼️ Sample Images
+The folder `Gonzalez_images/` contains the original sample images from the textbook
+**R. C. Gonzalez & R. E. Woods, *Digital Image Processing*, 3rd edition** (chapters 1–12),
+used by the weekly notebooks. These images are provided **for educational use only**
+as companion material of the textbook.
 
 ## ⚙️ Installation
 
