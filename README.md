@@ -19,29 +19,30 @@ computer-vision-examples/
 │   ├── week01_digital_imaging_fundamentals/
 │   │   └── digital_imaging_fundamentals.ipynb
 │   ├── week02_point_processing/
-│   │   └── image_enhancement_point_processing.ipynb
+│   │   ├── image_enhancement_point_processing.ipynb
+│   │   ├── input/                  # sample images (Gonzalez & Woods)
+│   │   ├── output/                 # generated results
+│   │   └── output_bitplanes/       # bit-plane slicing results
 │   ├── week03_histogram_processing/
-│   │   └── histogram_processing.ipynb
+│   │   ├── Image Enhancement Histogram Equalization.ipynb
+│   │   ├── histogram_eq_present.py         # equalization demo (bar-chart comparison)
+│   │   ├── histogram_match.py              # histogram matching (uniform/gaussian target)
+│   │   ├── hist_pdf_cdf_visualization.py   # histogram + PDF + CDF plots
+│   │   ├── equalized_histogram_stem_plot.py
+│   │   └── input/                  # sample images
 │   ├── week04_spatial_filtering/
-│   │   └── spatial_filtering.ipynb
-│   ├── week05_frequency_domain/
-│   │   └── frequency_domain_processing.ipynb
-│   ├── week06_pca_lossless_compression/
-│   │   └── pca_and_lossless_compression.ipynb
-│   ├── week07_restoration_morphology/
-│   │   └── restoration_and_morphological_processing.ipynb
-│   └── week08_segmentation_jpeg/
-│       └── segmentation_and_jpeg.ipynb
+│   │   └── Image Enhancement Spatial Filtering.ipynb
+│   ├── week05_frequency_domain/            # (coming soon)
+│   ├── week06_pca_lossless_compression/    # (coming soon)
+│   ├── week07_restoration_morphology/      # (coming soon)
+│   └── week08_segmentation_jpeg/           # (coming soon)
 │
 ├── part2_DL_CV_weeks09-10/
-│   ├── week09_cnns_yolos/
-│   │   └── cnn_yolo_object_detection.ipynb
-│   │   └── yolo_object_detection.ipynb
-│   └── week10_multimodal_cv/
-│       └── multimodal_llm_cv_applications.ipynb
-├──...
+│   ├── week09_cnn_yolo/                    # (coming soon)
+│   └── week10_multimodal_cv/               # (coming soon)
+│
+├── requirements.txt
 └── README.md
-
 ```
 
 ## ⚙️ Installation
